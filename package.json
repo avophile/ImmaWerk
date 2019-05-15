@@ -1,0 +1,19 @@
+{
+  "name": "immawerk",
+  "version": "1.0.0",
+  "description": "Delta Team's Chatbot for Immigrant Workers and Others in Finland",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avophile/ImmaWerk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avophile/ImmaWerk/issues"
+  },
+  "homepage": "https://github.com/avophile/ImmaWerk#readme"
+}
