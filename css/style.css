@@ -21,8 +21,9 @@ h5 {
 
 h1 {
     font-family: 'Montserrat-Black', sans-serif;
-    font-size: 2.5rem;
-    line-height: 1.5;
+    font-size: 3.5rem;
+    line-height: 1;
+    color: white;
 }
 
 a {
@@ -81,12 +82,12 @@ th {
 }
 
 #title {
-    background: #6c5ce7;
+    background: linear-gradient(#00028c, #6c5ce7);
 }
 
 
 .navbar {
-    padding-bottom: 4.5rem;
+    padding: 0 0 4.5rem;
 }
 
 .navbar-brand {
@@ -104,6 +105,21 @@ th {
 }
 
 .nav-link {
-font-size: 
+font-size: 1.2rem;
+font-family: 'Montserrat-Light';
 }
 
+/* Download buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+    background-color: #ff8a5c;
+    color: #ffffff;
+}
+
+/* Title image */
+ 
+.title-image {
+    width: 80%;
+    transform: rotate(15deg);
+ }
