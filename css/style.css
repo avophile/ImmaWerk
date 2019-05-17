@@ -192,6 +192,7 @@ font-family: 'Montserrat-Light';
     transition-property: opacity, margin-top;
     transition-duration: 0.75s;
     transition-timing-function: ease-in;
+    background: white;
   }
   
   .load .message-inner {
